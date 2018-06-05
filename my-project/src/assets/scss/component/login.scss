@@ -1,0 +1,8 @@
+@import "../base/color";
+@import "../base/img";
+.login_dialog {
+  background-image: url($bg_login_diglog);
+  background-size: 100% 100%;
+  width:100%;
+  height:100%;
+}

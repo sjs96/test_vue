@@ -1,0 +1,8 @@
+const dialog ={
+  edit:{
+
+  },
+  delete:{
+
+  }
+}
